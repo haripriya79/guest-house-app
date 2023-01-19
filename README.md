@@ -6,7 +6,7 @@ College Guest House Management System is a mobile application that helps alumi ,
 </p>
 <h1 id="preview">Preview</h1>
 <p align="center">
-  <a href="https://user-images.githubusercontent.com/68856492/213432041-6a34d2cd-ca50-46c9-9142-97e9b71e0def.mp4"><img src="https://forthebadge.com/images/badges/check-it-out.svg"></a>
+  <a href="https://user-images.githubusercontent.com/68856492/213432041-6a34d2cd-ca50-46c9-9142-97e9b71e0def.mp4" target="_blank"><img src="https://forthebadge.com/images/badges/check-it-out.svg"></a>
 </p> 
 <h4>:sparkles: That's it :sparkles:</h4>
 
