@@ -1,19 +1,20 @@
-# guest_house_app
+<h1 id="title" align="center>College Guest House Management System</h1>
 
-A new Flutter project.
+<h1 id="overview">Overview</h1>
+<p align="left">
+College Guest House Management System is a mobile application that helps alumi , staff of university to book the available rooms and with online payment system. This application is built with flutter for front end, firebase as backend and Razorpay for accepting the payments.
+</p>
+<h1 id="preview">Preview</h1>
+  
+  <p align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/68856492/213429896-047ce870-ec21-4262-b8a3-46012582a678.mp4"/>
+  </p>
+ 
+<h4>:sparkles: That's it :sparkles:</h4>
 
-## Getting Started
+<h1 id="tools">Made Using :wrench:</h1>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-#11:79:95:16:91:41:0F:0D:4A:06:8C:2F:44:68:AB:76:33:DE:72:87
-keytool -list -v -keystore "%USERPROFILE%\.android\debug.keystore" -alias androiddebugkey -storepass android -keypass android
+* flutter
+* Dart
+* Firebase
+* RazorPay payment Integration
